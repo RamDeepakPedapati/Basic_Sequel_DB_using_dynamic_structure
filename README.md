@@ -3,6 +3,7 @@
 
 commands and their syntaxes with example :-
 .........................................................................
+
 	->create:
 
 	  syntax:
@@ -14,6 +15,7 @@ commands and their syntaxes with example :-
 			rollno:int name:string
 
 ...........................................................................
+
 	->import:
 
 	  syntax:
@@ -31,6 +33,7 @@ commands and their syntaxes with example :-
 		mrnd>>>join s1 s2 s3
 
 ...............................................................................
+
 	->select
 		syntax:
 		mrnd>>> select field1_name,field2_name schema_name
@@ -49,16 +52,19 @@ commands and their syntaxes with example :-
 		mrnd>>>select name,rollno s1 where m1 GT 50	
 
 .................................................................................
+
 	->exit:
 
 	  syntax:
 		mrnd>>>exit
 .................................................................................
+
 	->clearscreen:
 
 	syntax:
 		mrnd>>>cls
 ...................................................................................
+
 	->flush
 	syntax:
 
